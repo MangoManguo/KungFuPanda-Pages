@@ -1,0 +1,34 @@
+p {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  color: rgb(215, 25, 32);
+}
+
+h1 {
+  font-size: 65px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ef891d;
+}
+
+html {
+  background: url(img/kungfupandabackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #b3d1ed;
+}
+
+a {
+  border-radius: 10px;
+  background-color: rgba(215, 25, 32, 0.7);
+  padding: 25px 50px;
+  font-size: 35px;
+  text-decoration: none;
+  color: #ffc400;
+}
+
+a:hover {
+  background-color: rgba(215, 25, 32, 1);
+}
